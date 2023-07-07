@@ -35,7 +35,7 @@
     <resources>
       <code path="index.ts" order="1"/>
       <css path="css/pcfPhoneFormatCallingcomponent.css" order="1" />
-      <css path+"flag-icon.min.css" order="2" />
+      <css path="flag-icon.min.css" order="2" />
       <resx path="strings/pcfPhoneFormatCallingcomponent.1033.resx" version="1.0.0" />
       <img path="flags\1x1\ad.svg" />
       <img path="flags\1x1\ae.svg" />
